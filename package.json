@@ -42,7 +42,7 @@
     "react-scripts": "^3.1.1"
   },
   "devDependencies": {
-    "@types/react": "^16.9.1",
+    "@types/react": "^18.0.21",
     "@types/webpack": "^4.32.1",
     "awesome-typescript-loader": "^5.2.1",
     "source-map-loader": "^1.1.3",
